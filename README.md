@@ -42,12 +42,13 @@ Haciendo uso de las diferentes estructuras de datos que se pueden usar en un len
    ```
    sudo docker pull gcc
    ```
-3. **Construir el contenedor**:
+   Docker pull trae la imagen que necesitemos desde docker hub
+4. **Construir el contenedor**:
    ```
    sudo docker -t scrabble
    ```
    Con este comando crearemos el contenedor con base a la estructura definida en el dockerfile y le definiremos el nombre de "scrabble".
-4. **Correr el contenedor**
+5. **Correr el contenedor**
    ```
    sudo docker run -it scrabble
    ```
