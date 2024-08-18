@@ -1,0 +1,73 @@
+10
+inicializar
+1
+inicializar (diccionario.txt)
+3
+Diccionario ya inicializado
+Archivo no existe
+Resultado exitoso
+Inicializa el sistema a partir del archivo diccionario.txt.
+iniciar_inverso
+1
+iniciar_inverso (diccionario.txt)
+3
+Diccionario ya inicializado
+Archivo no existe
+Resultado exitoso
+Inicializa el sistema a partir del archivo diccionario.txt, que contiene un diccionario de palabras inversas.
+puntaje
+1
+puntaje (palabra)
+3
+Palabra no existe
+Letras inválidas
+Resultado exitoso
+Permite conocer la puntuación que puede obtenerse con una palabra dada.
+salir
+0
+salir
+0
+termina la ejecucion.
+iniciar_arbol
+1
+iniciar_arbol (diccionario.txt)
+3
+Arbol ya inicializado
+Archivo no existe
+Resultado exitoso
+Inicializa el sistema y almacena las palabras en uno o más árboles de letras.
+iniciar_arbol_inverso
+1
+iniciar_arbol_inverso (diccionario.txt)
+3
+Arbol ya inicializado
+Archivo no existe
+Resultado exitoso
+Inicializa el sistema y almacena las palabras en uno o más árboles de letras, de manera inversa.
+palabras_por_prefijo
+1
+palabras_por_prefijo (prefijo)
+2
+Prefijo invalido
+Resultado exitoso
+Dado un prefijo de pocas letras, el comando recorre el(los) árbol(es) de letras construído(s) para ubicar todas las palabras posibles.
+palabras_por_sufijo
+1
+palabras_por_sufijo (sufijo)
+2
+Sufijo invalido
+Resultado exitoso
+Dado un sufijo de pocas letras, el comando recorre el(los) árbol(es) de letras construído(s) para ubicar todas las palabras posibles.
+grafo_de_palabras
+0
+grafo_de_palabras
+1
+Resultado exitoso
+construye un grafo de palabras, en donde cada palabra se conecta a las demás si y sólo sí difierente en un única letra. 
+posibles_palabras
+1
+posibles_palabras (letras)
+2
+Letras invalidas
+Resultado exitoso
+Presenta en pantalla todas las posibles palabras válidas a construir.
